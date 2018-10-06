@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ua.edu.sumdu.j2se.pr1"},{"l":"ua.edu.sumdu.j2se.pr1.operations"},{"l":"ua.edu.sumdu.j2se.pr1.operations.tests"}]
