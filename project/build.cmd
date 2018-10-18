@@ -1,3 +1,3 @@
-cd .\build
-jar cmf ..\res\manifest.mf program.jar -C ..\classes .
+cd ./build
+jar cmf ../res/manifest.mf program.jar -C ../classes .
 pause
